@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Fb PaPa</title>
+    <script src="fb_parser.js"></script>
+</head>
+<body>
+    <h4>Get RSS link of the Facebook Page</h4>
+    Enter Page URL:<br />
+    <input type="text" id="page_url" autofocus size="70" onkeypress="pressCheck(event, 'page')"/>
+    <button onclick="parseURL('page')">transfer</button ><br /><br />
+    RSS URL: <br />
+    <input type="text" id="rss_link" size="70" />
+    <div id="page_output"> </div><br />
+    <hr />
+    <h4>(・Д・)ノ</h4>
+    Enter URL:<br />
+    <input type="text" id="user_url" size="70" onkeypress="pressCheck(event, 'user')"/>
+    <button onclick="parseURL('user')">transfer</button ><br /><br />
+    URL: <br />
+    <div id="user_output"> <p>&nbsp;</p></div>
+</body>
+</html>
