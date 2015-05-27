@@ -18,10 +18,6 @@ Then, you can use your RSS Reader to follow the pages your like.
 
 ## The second block
 
-A funny function I made for fun.
-
-I don't know to explain too much.
+I made this for fun, and I don't know to explain too much.
 
 Try it yourself. XD
-
-
