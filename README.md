@@ -1,3 +1,7 @@
+20150626 update:
+Due to facebook no longer provide public access to their graph api, this web service doesn't anymore. (news [link](https://news.ycombinator.com/item?id=9748242))
+
+
 A simple parser to parse some URLs of facebook
 
 # Usage
